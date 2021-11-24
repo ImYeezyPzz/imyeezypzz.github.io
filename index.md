@@ -15,6 +15,25 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+	"Download below"
+
+</body>
+
+<div class="grid_4">
+	<a href="msgnew/msg new.txt.gpg" class="btn" download="direccion" >Descargar</a>
+
+</div>
+
+
+</html>
+
 - Bulleted
 - List
 
